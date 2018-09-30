@@ -23,7 +23,7 @@ Gabriel - Sourcing of Database front-end developer. Developed UI & UX of the pro
 
 Billio  - AR and Android developer. Overlaying of 3D model with proper Physics
 
-Khai    - AR and iOS developer. Did multiple image sraping and sourcing for appropriate models
+Khai    - AR and iOS developer. Did multiple image scraping and sourcing for appropriate models
 
 
 ## Acknowledgement
