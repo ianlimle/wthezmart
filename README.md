@@ -18,9 +18,13 @@ If you encountered any problems in the process, please refer to the top of this 
 
 # Authors
 Jeremy  - Deployment of server and front-end contributor
+
 Gabriel - Sourcing of Database front-end developer. Developed UI & UX of the product
+
 Billio  - AR and Android developer. Overlaying of 3D model with proper Physics
+
 Khai    - AR and iOS developer. Did multiple image sraping and sourcing for appropriate models
+
 
 ## Acknowledgement
 Hat tip to anyone whose code was used Inspiration etc
